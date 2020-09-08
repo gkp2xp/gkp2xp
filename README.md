@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Georges
-### Passsionated Software Engineer
+### Passionated Software Engineer
 
 I am a senior full stack software engineer with a true passion for .NET based software development and cloud computing.
 
